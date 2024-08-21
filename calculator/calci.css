@@ -1,0 +1,28 @@
+body {
+    background-image: url("cal.jpg");
+    background-size: cover;
+}
+table {
+    /*border: 1px black solid;*/
+    margin-top: 16%;
+    margin-left: 31.5%;
+    margin-right: auto;
+}
+input[type="button"] {
+    width: 100%;
+    padding: 22px 42px;
+    background-color: black;
+    color: white;
+    font-size: 24px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+input[type="text"] {
+    padding: 22px 30px;
+    font-size: 24px;
+    border: none;
+    border-radius: 5px;
+    border: 2px solid black;
+    font-weight: bold;
+}
